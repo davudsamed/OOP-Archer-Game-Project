@@ -1,0 +1,20 @@
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Library\obj\Debug\Savas.Library.pdb

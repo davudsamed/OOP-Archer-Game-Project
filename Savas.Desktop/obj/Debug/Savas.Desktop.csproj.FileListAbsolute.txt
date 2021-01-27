@@ -1,0 +1,48 @@
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\SavasOyunu.exe.config
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\SavasOyunu.pdb
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\SavasOyunu.pdb
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\bin\Debug\SavasOyunu.exe.config
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\bin\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\bin\Debug\SavasOyunu.pdb
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\obj\Debug\Savas.Desktop.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\obj\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\NDP ODEV - Kopya\Savas.Desktop\obj\Debug\SavasOyunu.pdb
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\bin\Debug\SavasOyunu.exe.config
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\bin\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\bin\Debug\SavasOyunu.pdb
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\obj\Debug\Savas.Desktop.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\obj\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\NDP VİZEEE\NDP VİZE 1\Savas.Desktop\obj\Debug\SavasOyunu.pdb
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\bin\Debug\SavasOyunu.exe.config
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\bin\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\bin\Debug\SavasOyunu.pdb
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\obj\Debug\Savas.Desktop.csprojAssemblyReference.cache
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\obj\Debug\SavasOyunu.exe
+C:\Users\Davud\Desktop\B171210007_1A_Vize\1A_B171210007_Vize\Savas.Desktop\obj\Debug\SavasOyunu.pdb
